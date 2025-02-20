@@ -1,0 +1,172 @@
+[
+    {
+      "titolo": "Pasta al Pomodoro",
+      "ingredienti": [
+        {
+          "nome": "Pasta",
+          "quantità": 100,
+          "unità": "g",
+          "grassi": 1.5,
+          "carboidrati": 75,
+          "proteine": 12
+        },
+        {
+          "nome": "Pomodori pelati",
+          "quantità": 150,
+          "unità": "g",
+          "grassi": 0.2,
+          "carboidrati": 8,
+          "proteine": 1.2
+        },
+        {
+          "nome": "Olio d'oliva",
+          "quantità": 10,
+          "unità": "ml",
+          "grassi": 9,
+          "carboidrati": 0,
+          "proteine": 0
+        },
+        {
+          "nome": "Aglio",
+          "quantità": 5,
+          "unità": "g",
+          "grassi": 0,
+          "carboidrati": 1,
+          "proteine": 0.2
+        }
+      ]
+    },
+    {
+      "titolo": "Insalata di Pollo",
+      "ingredienti": [
+        {
+          "nome": "Petto di pollo",
+          "quantità": 150,
+          "unità": "g",
+          "grassi": 3,
+          "carboidrati": 0,
+          "proteine": 31
+        },
+        {
+          "nome": "Insalata mista",
+          "quantità": 50,
+          "unità": "g",
+          "grassi": 0.2,
+          "carboidrati": 3,
+          "proteine": 1
+        },
+        {
+          "nome": "Olio d'oliva",
+          "quantità": 10,
+          "unità": "ml",
+          "grassi": 9,
+          "carboidrati": 0,
+          "proteine": 0
+        },
+        {
+          "nome": "Succo di limone",
+          "quantità": 5,
+          "unità": "ml",
+          "grassi": 0,
+          "carboidrati": 1.2,
+          "proteine": 0
+        }
+      ]
+    },
+    {
+      "titolo": "Omelette al Formaggio",
+      "ingredienti": [
+        {
+          "nome": "Uova",
+          "quantità": 2,
+          "unità": "pezzi",
+          "grassi": 10,
+          "carboidrati": 1.1,
+          "proteine": 12
+        },
+        {
+          "nome": "Formaggio",
+          "quantità": 30,
+          "unità": "g",
+          "grassi": 9,
+          "carboidrati": 1,
+          "proteine": 7
+        },
+        {
+          "nome": "Burro",
+          "quantità": 5,
+          "unità": "g",
+          "grassi": 4,
+          "carboidrati": 0,
+          "proteine": 0
+        }
+      ]
+    },
+    {
+      "titolo": "Zuppa di Lenticchie",
+      "ingredienti": [
+        {
+          "nome": "Lenticchie",
+          "quantità": 100,
+          "unità": "g",
+          "grassi": 0.8,
+          "carboidrati": 20,
+          "proteine": 9
+        },
+        {
+          "nome": "Carote",
+          "quantità": 50,
+          "unità": "g",
+          "grassi": 0.1,
+          "carboidrati": 5,
+          "proteine": 0.6
+        },
+        {
+          "nome": "Sedano",
+          "quantità": 30,
+          "unità": "g",
+          "grassi": 0.1,
+          "carboidrati": 1,
+          "proteine": 0.3
+        },
+        {
+          "nome": "Olio d'oliva",
+          "quantità": 10,
+          "unità": "ml",
+          "grassi": 9,
+          "carboidrati": 0,
+          "proteine": 0
+        }
+      ]
+    },
+    {
+      "titolo": "Frullato di Banana e Latte",
+      "ingredienti": [
+        {
+          "nome": "Banana",
+          "quantità": 100,
+          "unità": "g",
+          "grassi": 0.3,
+          "carboidrati": 23,
+          "proteine": 1.1
+        },
+        {
+          "nome": "Latte",
+          "quantità": 200,
+          "unità": "ml",
+          "grassi": 3.5,
+          "carboidrati": 9.6,
+          "proteine": 6.8
+        },
+        {
+          "nome": "Miele",
+          "quantità": 10,
+          "unità": "g",
+          "grassi": 0,
+          "carboidrati": 8.2,
+          "proteine": 0
+        }
+      ]
+    }
+  ]
+  
