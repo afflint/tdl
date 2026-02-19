@@ -1,0 +1,25 @@
+{
+    "ricette": [
+      {
+        "titolo": "Pasta al Pomodoro",
+        "descrizione": "Questa è la classica pasta al pomodoro, semplice e deliziosa! Prendi della buona pasta, aggiungi dei pomodori pelati freschi, un filo d'olio d'oliva per dare sapore e, ovviamente, un pizzico d'aglio per un tocco aromatico. Perfetta per un pasto veloce ma sempre gustoso!"
+      },
+      {
+        "titolo": "Insalata di Pollo",
+        "descrizione": "Se hai voglia di qualcosa di leggero ma nutriente, questa insalata di pollo fa al caso tuo! Un bel petto di pollo grigliato su un letto di insalata mista, con un condimento fresco a base di olio d'oliva e un tocco di succo di limone. È un piatto semplice, sano e pieno di gusto!"
+      },
+      {
+        "titolo": "Omelette al Formaggio",
+        "descrizione": "Ecco una colazione o un pranzo veloce che non delude mai: l’omelette al formaggio! Rompi due uova, sbattile bene e cuocile con un po’ di burro fino a ottenere quella consistenza perfetta. Poi aggiungi del formaggio filante e lascia che si sciolga… irresistibile!"
+      },
+      {
+        "titolo": "Zuppa di Lenticchie",
+        "descrizione": "Questa zuppa di lenticchie è il comfort food perfetto per le giornate fredde. Le lenticchie si cuociono lentamente con carote e sedano, mentre un filo d’olio d’oliva aggiunge quel tocco di cremosità. È un piatto nutriente e sostanzioso, perfetto da gustare con una fetta di pane caldo!"
+      },
+      {
+        "titolo": "Frullato di Banana e Latte",
+        "descrizione": "Se vuoi un frullato cremoso e dolce, prova questa combinazione: una banana matura frullata con latte fresco e un cucchiaino di miele per un tocco extra di dolcezza. È un mix perfetto per una colazione veloce o uno spuntino rinfrescante!"
+      }
+    ]
+  }
+  

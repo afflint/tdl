@@ -1,0 +1,19 @@
+,nome,quantità,unità,grassi,carboidrati,proteine,ricetta
+0,Pasta,100,g,1.5,75.0,12.0,Pasta al Pomodoro
+1,Pomodori pelati,150,g,0.2,8.0,1.2,Pasta al Pomodoro
+2,Olio d'oliva,10,ml,9.0,0.0,0.0,Pasta al Pomodoro
+3,Aglio,5,g,0.0,1.0,0.2,Pasta al Pomodoro
+4,Petto di pollo,150,g,3.0,0.0,31.0,Insalata di Pollo
+5,Insalata mista,50,g,0.2,3.0,1.0,Insalata di Pollo
+6,Olio d'oliva,10,ml,9.0,0.0,0.0,Insalata di Pollo
+7,Succo di limone,5,ml,0.0,1.2,0.0,Insalata di Pollo
+8,Uova,2,pezzi,10.0,1.1,12.0,Omelette al Formaggio
+9,Formaggio,30,g,9.0,1.0,7.0,Omelette al Formaggio
+10,Burro,5,g,4.0,0.0,0.0,Omelette al Formaggio
+11,Lenticchie,100,g,0.8,20.0,9.0,Zuppa di Lenticchie
+12,Carote,50,g,0.1,5.0,0.6,Zuppa di Lenticchie
+13,Sedano,30,g,0.1,1.0,0.3,Zuppa di Lenticchie
+14,Olio d'oliva,10,ml,9.0,0.0,0.0,Zuppa di Lenticchie
+15,Banana,100,g,0.3,23.0,1.1,Frullato di Banana e Latte
+16,Latte,200,ml,3.5,9.6,6.8,Frullato di Banana e Latte
+17,Miele,10,g,0.0,8.2,0.0,Frullato di Banana e Latte
